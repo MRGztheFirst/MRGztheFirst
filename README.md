@@ -1,14 +1,16 @@
 <div align="center">
 
-# Arthur Oliveira
-
-### Software Developer
-
-Building things with code, one project at a time.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=MRGz&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer&descAlignY=60&descSize=20" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-MRGztheFirst-181717?style=for-the-badge&logo=github)](https://github.com/MRGztheFirst)
+# Hey, I'm Arthur Oliveira 👋
+
+### Software Developer • Full-Stack • Mobile • Game Development
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MRGztheFirst&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -16,64 +18,20 @@ Building things with code, one project at a time.
 
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys creating applications, experimenting with
-different technologies and turning ideas into real projects.
+I'm a developer who enjoys building things, experimenting with
+different technologies and turning ideas into working projects.
 
-I'm currently exploring different areas of software development,
-from web applications to mobile and desktop projects.
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,angular,flutter,dart,scss,git,github,vscode" />
-
-</div>
-
----
-
-## 🚀 Projects
-
-### 🏠 PulseLocal
-
-A project focused on creating a local-oriented application.
-
-**Tech:** Dart
-
----
-
-### 🌅 WakeUp
-
-A Python project focused on automation and interaction.
-
-**Tech:** Python
-
----
-
-### ⚔️ PrimalSiege
-
-A game project built with Godot.
-
-**Tech:** GDScript
-
----
-
-### 🧾 CupomZy
-
-A project for working with coupons and digital experiences.
-
-**Tech:** TypeScript
-
----
-
-## 📚 Currently Learning
+I like exploring different areas of software development, from
+web and mobile applications to automation and game development.
 
 ```text
-Angular       ███████████████░░░
-Flutter       ██████████████░░░░
-Python        ███████████████░░░
-Java          ████████████░░░░░░
-JavaScript    █████████████░░░░░
-SCSS          ████████████░░░░░░
+💻 Development
+├── Web
+├── Mobile
+├── Backend
+└── Game Development
+
+🚀 Always
+├── Learning
+├── Building
+└── Experimenting
