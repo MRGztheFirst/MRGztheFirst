@@ -18,20 +18,40 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys building things, experimenting with
-different technologies and turning ideas into working projects.
+Hey! I'm **Arthur**, a software developer who enjoys turning ideas
+into real projects and learning through practice.
 
-I like exploring different areas of software development, from
-web and mobile applications to automation and game development.
+I'm interested in different areas of software development and enjoy
+working with different technologies depending on the problem I'm trying
+to solve.
+
+### 💻 What I Do
+
+- 🌐 **Web Development** — Building interfaces and web applications
+- 📱 **Mobile Development** — Exploring application development with Flutter
+- ⚙️ **Backend Development** — Working with Python, Java and databases
+- 🎮 **Game Development** — Creating and experimenting with Godot
+- 🧩 **Problem Solving** — Learning by building and figuring things out
+
+### 🛠️ Technologies I Use
 
 ```text
-💻 Development
-├── Web
-├── Mobile
-├── Backend
-└── Game Development
+Languages
+├── Python
+├── Java
+├── JavaScript
+├── TypeScript
+├── Dart
+└── GDScript
 
-🚀 Always
-├── Learning
-├── Building
-└── Experimenting
+Frontend
+├── Angular
+└── SCSS
+
+Mobile
+└── Flutter
+
+Tools
+├── Git
+├── GitHub
+└── VS Code
