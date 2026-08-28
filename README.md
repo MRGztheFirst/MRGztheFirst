@@ -18,40 +18,205 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Arthur**, a software developer who enjoys turning ideas
-into real projects and learning through practice.
+<table>
+<tr>
+<td width="55%">
 
-I'm interested in different areas of software development and enjoy
-working with different technologies depending on the problem I'm trying
-to solve.
+### 👋 Hey!
 
-### 💻 What I Do
+I'm **Arthur**, a software developer who enjoys turning ideas into
+real projects and learning through practice.
 
-- 🌐 **Web Development** — Building interfaces and web applications
-- 📱 **Mobile Development** — Exploring application development with Flutter
-- ⚙️ **Backend Development** — Working with Python, Java and databases
-- 🎮 **Game Development** — Creating and experimenting with Godot
-- 🧩 **Problem Solving** — Learning by building and figuring things out
+I like exploring different areas of development and experimenting
+with different technologies to find the best way to solve a problem.
 
-### 🛠️ Technologies I Use
+<br>
 
-```text
-Languages
-├── Python
-├── Java
-├── JavaScript
-├── TypeScript
-├── Dart
-└── GDScript
+> 💜 `Build • Learn • Experiment • Improve`
 
-Frontend
-├── Angular
-└── SCSS
+</td>
 
-Mobile
-└── Flutter
+<td width="45%">
 
-Tools
-├── Git
-├── GitHub
-└── VS Code
+### 📌 Quick Facts
+
+💻 **Developer**  
+🚀 **Project Builder**  
+🌐 **Web Development**  
+📱 **Mobile Development**  
+⚙️ **Backend Development**  
+🎮 **Game Development**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 What I Do
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 🌐
+
+**Web**
+
+Angular  
+JavaScript  
+TypeScript  
+SCSS
+
+</td>
+
+<td align="center" width="20%">
+
+### 📱
+
+**Mobile**
+
+Flutter  
+Dart
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️
+
+**Backend**
+
+Python  
+Java  
+SQL
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎮
+
+**Game Dev**
+
+Godot  
+GDScript
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧠
+
+**Other**
+
+Git  
+GitHub  
+VS Code
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,godot" />
+
+<br><br>
+
+### Frameworks & Styling
+
+<img src="https://skillicons.dev/icons?i=angular,flutter,scss" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 My Development Journey
+
+<table>
+<tr>
+<td align="center">
+
+💡  
+**Idea**
+
+<br>
+
+I start with an idea  
+or a problem to solve.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+💻  
+**Build**
+
+<br>
+
+I turn the idea  
+into code.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🐛  
+**Break**
+
+<br>
+
+I test, experiment  
+and find problems.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+📈  
+**Improve**
+
+<br>
+
+I learn, refactor  
+and make it better.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Angular-8A2BE2?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
