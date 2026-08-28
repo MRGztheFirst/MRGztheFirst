@@ -32,8 +32,6 @@ with different technologies to find the best way to solve a problem.
 
 <br>
 
-> 💜 `Build • Learn • Experiment • Improve`
-
 </td>
 
 <td width="45%">
