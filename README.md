@@ -16,13 +16,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <table>
 <tr>
 <td width="55%">
 
-### 👋 Hey!
+### Hey!
 
 I'm **Arthur**, a software developer who enjoys turning ideas into
 real projects and learning through practice.
@@ -36,14 +36,14 @@ with different technologies to find the best way to solve a problem.
 
 <td width="45%">
 
-### 📌 Quick Facts
+### Quick Facts
 
-💻 **Developer**  
-🚀 **Project Builder**  
-🌐 **Web Development**  
-📱 **Mobile Development**  
-⚙️ **Backend Development**  
-🎮 **Game Development**
+**Developer**  
+**Project Builder**  
+**Web Development**  
+**Mobile Development**  
+**Backend Development**  
+**Game Development**
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ with different technologies to find the best way to solve a problem.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
 
@@ -75,7 +75,7 @@ with different technologies to find the best way to solve a problem.
 
 ---
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 <div align="center">
 
